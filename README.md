@@ -4,8 +4,11 @@ This can record your computer screen with the help of less than 15 lines of code
 while runing this code you have to install this libraries
 
 pip install pillow
+
 pip install numpy
+
 pip install win32api
+
 pip install opencv-python
 
 
