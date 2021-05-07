@@ -12,5 +12,5 @@ pip install win32api
 pip install opencv-python
 
 
-written by -- sankalp
+Written By -- Sankalp
 
